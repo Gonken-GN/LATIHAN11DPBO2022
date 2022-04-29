@@ -3,7 +3,7 @@
 ### Hasil Eksekusi Program  
 - ### Table Member
 ![ScreenShots 1](https://github.com/Gonken-GN/LATIHAN11DPBO2022/blob/main/Screenshoots/Tabel%20Member.png)
-- ### update Table Member
+- ### Update Table Member
 ![ScreenShots 2](https://github.com/Gonken-GN/LATIHAN11DPBO2022/blob/main/Screenshoots/Update_member.png)
 - ### NIM Redundant
 ![ScreenShots 1](https://github.com/Gonken-GN/LATIHAN11DPBO2022/blob/main/Screenshoots/error%20nim.png)
